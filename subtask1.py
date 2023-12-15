@@ -6,3 +6,5 @@ def LargestSquare(n):
     print("The largest square number before " + str(n) + " is " + str(q) + " which is the square of " + str(m-1))
     
 LargestSquare(27)
+
+# it looks like I learned how to use git today
